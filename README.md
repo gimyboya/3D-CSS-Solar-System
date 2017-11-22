@@ -3,4 +3,8 @@
 
 Solar System data visualisation done in HTML/CSS and a bit of Javascript.
 
-See it in action : http://codepen.io/juliangarnier/full/idhuG
+See it in action : https://codepen.io/gimyboya/full/GOxXpR/
+
+# TODOD: 
+
+convert it to a vuejs project
